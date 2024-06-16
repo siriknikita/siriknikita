@@ -23,4 +23,4 @@ I'm a backend developer. All coding projects are built from the ground up, from 
 
 ![Siryk Mykyta's GitHub stats](https://github-readme-stats.vercel.app/api?username=siriknikita&show_icons=true&theme=gruvbox)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=siriknikita&theme=gruvbox&card_width=467)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=siriknikita&theme=gruvbox&date_format=j%20M%5B%20Y%5D&card_width=467)](https://git.io/streak-stats)
